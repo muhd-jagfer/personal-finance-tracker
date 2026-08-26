@@ -1,0 +1,33 @@
+date,amount,category,description
+01-01-2026,35000,Income,Monthly salary
+03-01-2026,1800,Expense,Groceries
+10-01-2026,2500,Expense,House rent
+18-01-2026,750,Expense,Electricity bill
+25-01-2026,3000,Income,Freelance work
+02-02-2026,35000,Income,Monthly salary
+06-02-2026,1200,Expense,Groceries
+14-02-2026,1800,Expense,Shopping
+22-02-2026,600,Expense,Transportation
+28-02-2026,2500,Expense,Internet and phone
+03-03-2026,35000,Income,Monthly salary
+08-03-2026,950,Expense,Groceries
+15-03-2026,4000,Income,Freelance project
+21-03-2026,2200,Expense,Household items
+29-03-2026,800,Expense,Restaurant
+01-04-2026,35000,Income,Monthly salary
+09-04-2026,1500,Expense,Groceries
+17-04-2026,3000,Expense,Clothing
+24-04-2026,5000,Income,Freelance work
+30-04-2026,1200,Expense,Fuel
+02-05-2026,35000,Income,Monthly salary
+11-05-2026,2000,Expense,Groceries
+19-05-2026,2500,Expense,Medical expenses
+27-05-2026,900,Expense,Transportation
+01-06-2026,35000,Income,Monthly salary
+12-06-2026,1800,Expense,Groceries
+20-06-2026,4500,Income,Freelance project
+28-06-2026,3000,Expense,Entertainment
+01-07-2026,35000,Income,Monthly salary
+10-08-2026,5000,Income,Freelance work
+12-08-2026,200.0,Expense,snaks
+14-08-2026,2000.0,Expense,gift for friend
