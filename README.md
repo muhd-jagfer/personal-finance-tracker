@@ -3,7 +3,7 @@
 
 #### Description:
 
-This is my Personal Finance Tracker project. I made this program in Python to keep track of my income and expenses.
+Personal Finance Tracker is a Python command-line application for recording and reviewing income and expenses.
 
 The program stores all the transactions in a file called `dataset.csv`. Each transaction has a date, amount, category, and description. The user can add a new transaction from the menu and choose whether it is an Income or an Expense.
 
@@ -19,6 +19,6 @@ The View Transactions option lets the user enter a start date and an end date. T
 
 I used Pandas to read and work with the CSV file. I used Matplotlib to make a graph showing income and expenses over time. The graph is saved as `transaction_graph.png`.
 
-I also used a separate `data.py` file for some of the input functions like asking for the amount, category, date, and description. I did this to keep the main file a little more organized.
+I also used a separate `data.py` file for some of the input functions like asking for the amount, category, date, and description, This separates input-related functions from the main program logic and keeps the code organized.
 
 While making this project, I learned more about working with CSV files, Pandas, dates, and graphs in Python. I also had to deal with things like invalid dates, empty data, and making sure the start date is not after the end date.
