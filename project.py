@@ -259,6 +259,7 @@ def create_transaction_graph(data):
     print("\nGraph saved as transaction_graph.png")
 
     plt.show(block=True)
+    return 0
 
 
 def show_menu():
